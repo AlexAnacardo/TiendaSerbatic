@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head th:replace="fragments/headFragment :: headFragment"></head>
+
+<body>
+    
+	<header th:replace="fragments/headerFragment :: headerFragment"></header>	
+	
+	<c:forEach var="articulo" items="${catalogo}">
+		<div th:replace="fragments/catalogoFragment :: catalogoFragment"></div>
+	</c:forEach>	
+	
+	<footer th:replace="fragments/footerFragment :: footerFragment"></footer>  
+ 
+	<div th:replace="fragments/scriptsFragment :: scriptsFragment"></div>
+
+</body>
+
+</html>	
