@@ -1,0 +1,17 @@
+ARREGLAR REDIRECCIONES mantener busqueda/pagina seleccionada por el user
+
+Añadir perfil de usuario
+
+Chatgpt recomendacion
+
+Mejorar CSS del header
+
+Meter validacion al inicio sesion-registro
+
+Mostrar errores en inicio sesion-registro
+
+Meter valoracion de pelicula 
+
+Mostrar media valoraciones pelicula
+
+Recientes peliculas vistas por user
