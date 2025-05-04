@@ -1,0 +1,9 @@
+ARREGLAR REDIRECCIONES mantener busqueda/pagina seleccionada por el user
+
+Arreglar editar reseñas admin
+
+Arreglar CSS de reseñas
+
+Meter validacion al inicio sesion-registro
+
+Mostrar errores en inicio sesion-registro
