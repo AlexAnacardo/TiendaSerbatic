@@ -1,0 +1,36 @@
+Usuario no registrado
+1-Buscar peliculas
+2-Ver detalles de peliculas (reparto, fecha lanzamiento, popularidad)
+3-Ver reseñas de otros usuarios
+4-Registrarse en la página
+5-Ver peliculas similares en base a recomendaciones de ChatGPT
+
+Usuario registrado
+6-Añadir pelicula a favoritas
+7-Escribir reseñas
+8-Editar reseñas escritas
+9-Eliminar reseñas
+10-Editar nombre de usuario
+11-Editar contraseña de usuario
+12-Ver listado de peliculas añadidas a favoritas
+
+Usuario administrador
+
+13-Visualizar todos los usuarios de la aplicacion
+14-Eliminar usuarios
+15-Editar usuarios (nombre usuario y pass)
+16-Ver todas las reseñas de cada usuario
+17-Editar/eliminar reseñas de usuarios
+
+
+
+
+Sin implementar:
+
+-Historial de las ultimas 5 peliculas vistas por el usuario
+-Boton de eliminar reseñas en la pestaña de "detalles pelicula" para usuario admin
+-Permitir a usuario administrador crear usuarios
+-Exportar peliculas favoritas de un usuario
+-Importar peliculas favoritas de un usuario
+-Permitir visualizar las peliculas favoritas de otro usuario
+-Sistema de recuperado de contraseña en caso de olvido
